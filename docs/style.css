@@ -13,11 +13,7 @@ section {
     margin: auto;
 }
 
-.preamble-short {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.preamble-long {
+.preamble  {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
