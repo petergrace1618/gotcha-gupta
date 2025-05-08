@@ -17,6 +17,10 @@ section {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.preamble-long {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .sc-docs-list {
     /* margin-top: 1em; */
     border-top: 2px solid black;
