@@ -1,0 +1,33 @@
+
+body {
+    background: linear-gradient(#789, #456, #789);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Yatra One';
+}
+
+section {
+    max-width: 800px;
+    margin: auto;
+}
+
+.preamble-short {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sc-docs-list {
+    /* margin-top: 1em; */
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+.img-container img {
+    width: 100%;
+    border: 1px black solid;
+}
