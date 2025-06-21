@@ -25,12 +25,28 @@ section {
     margin: auto;
 }
 
-.preamble  {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+hr {
+    height: 1px;
+    /* color: black; */
+    background: black;
+    /* font-size: 0; */
+    border: 0;
 }
 
 details {
     margin-bottom: 1em;
+    border: 1px darkblue solid;
+    padding: .25em;
+    border-radius: .25em;
+    /* display: inline-block; */
+}
+
+summary {
+    padding-left: .5em;
+}
+
+summary::marker {
+    font-size:  1em;
 }
 
 .claim {
