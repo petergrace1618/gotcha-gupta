@@ -1,6 +1,6 @@
 
 body {
-    background: linear-gradient(#789, #567, #789);
+    background: #789;
     font-family: Calibri;
     font-size: 12px;
 }
@@ -20,13 +20,13 @@ h3 {
     font-size: inherit;
 }
 
-section {
+main {
     max-width: 800px;
     margin: auto;
 }
 
 hr {
-    height: 1px;
+    height: 2px;
     /* color: black; */
     background: black;
     /* font-size: 0; */
@@ -38,11 +38,10 @@ details {
     border: 1px darkblue solid;
     padding: .25em;
     border-radius: .25em;
-    /* display: inline-block; */
 }
 
-summary {
-    padding-left: .5em;
+article {
+    padding-left: 1em;
 }
 
 summary::marker {
@@ -65,4 +64,8 @@ img {
 
 .nerd {
     font-weight: bold;
+}
+
+.rip {
+    font-family: 'Times New Roman', Times, serif;
 }
