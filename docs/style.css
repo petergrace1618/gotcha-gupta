@@ -29,9 +29,8 @@ section {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.sc-docs-list {
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
+details {
+    margin-bottom: 1em;
 }
 
 .claim {
@@ -45,7 +44,7 @@ img {
 }
 
 .dialog {
-    margin: 0 2em;
+    margin: 0.25em 2em;
 }
 
 .nerd {
