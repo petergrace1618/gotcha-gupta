@@ -74,3 +74,7 @@ img {
     font-family: Century, 'Times New Roman', serif;
     list-style-type: none;
 }
+
+.exhibits li {
+    margin-bottom: .25em;    
+}
