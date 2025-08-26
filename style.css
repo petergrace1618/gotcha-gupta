@@ -5,9 +5,13 @@ body {
     font-size: 1em;
 }
 
-.gupta {
+.center {
     text-align: center;
-    font-family: 'Yatra One';
+}
+
+.disclaimer {
+    border: 2px solid black;
+    padding: 0 1.2em .25em 1.2em;
 }
 
 h2 {
@@ -76,5 +80,5 @@ img {
 }
 
 .exhibits li {
-    margin-bottom: .25em;    
+    margin-bottom: 1em;    
 }
