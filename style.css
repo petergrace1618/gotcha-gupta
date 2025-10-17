@@ -29,6 +29,14 @@ h3 {
     font-family: 1.5em;
 }
 
+h4 {
+    font-family: 'Century Black', 'Times New Roman', Times, serif;
+}
+
+a {
+    color: cyan;
+}
+
 strong {
     font-family: 'Times New Roman', Times, serif;
 }
@@ -60,7 +68,7 @@ aside {
 
 .rip {
     color: black;
-    text-shadow: 0 0 1em white;
+    text-shadow: 0 0 1em yellow;
 }
 
 hr {
