@@ -1,5 +1,7 @@
 
 body {
+    padding: 0;
+    margin: 0;
     background: #111;
     color: #888;
     font-family: Calibri;
@@ -44,6 +46,7 @@ a {
 
 strong {
     font-family: 'Century Black', 'Times New Roman', Times, serif;
+    color: #aaa;
 }
 
 .disclaimer {
