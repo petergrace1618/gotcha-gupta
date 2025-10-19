@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Century';
+    src: url('Century\ Normal.ttf');
+}
 
 body {
     padding: 0;
@@ -8,21 +12,29 @@ body {
     font-size: 12px;
 }
 
+header, footer {
+    background-color: #222;
+}
+
+footer {
+    padding: 1em;
+}
+
 main {
     max-width: 800px;
     margin: auto;
+    padding: 1em;
 }
 
 h1, h2, h3 {
     text-align: center;
-    font-family: 'Century Black', 'Times New Roman', Times, serif;
+    font-family: 'Century', 'Times New Roman', Times, serif;
 }
 
 h1 {
     text-shadow: 0 0 0.1em #777;
     font-size: 3em;
     color: #ccc;
-    background-color: #222;
     padding-top: .25em;
     padding-bottom: .5em;
 }
@@ -34,10 +46,17 @@ h2 {
 
 h3 {
     font-family: 1.5em;
+    text-align: left;
+    text-indent: 2em;
 }
 
 h4 {
     font-family: 'Century Black', 'Times New Roman', Times, serif;
+}
+
+p {
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 a {
@@ -45,18 +64,19 @@ a {
 }
 
 strong {
-    font-family: 'Century Black', 'Times New Roman', Times, serif;
+    font-family: 'Century', 'Times New Roman', Times, serif;
     color: #aaa;
 }
 
 .disclaimer {
-    font-family: 'Century Black', 'Times New Roman', Times, serif;
+    font-family: 'Century', 'Times New Roman', Times, serif;
     border: 2px solid yellow;
     padding: 0 1.2em .25em 1.2em;
 }
 
 .disclaimer h3 {
     color: yellow;
+    text-align: center;
 }
 
 blockquote {
@@ -119,7 +139,7 @@ img {
 }
 
 .exhibits ul {
-    font-family: Century, 'Times New Roman', serif;
+    font-family: 'Century', 'Times New Roman', serif;
     list-style-type: none;
 }
 
