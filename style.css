@@ -51,7 +51,7 @@ h3 {
 }
 
 h4 {
-    font-family: 'Century Black', 'Times New Roman', Times, serif;
+    font-family: 'Century', 'Times New Roman', Times, serif;
 }
 
 /* p {
@@ -88,7 +88,7 @@ blockquote {
     word-break: break-word;
 }
 
-.tm {
+/* .tm {
     font-family: 'Roboto', monospace;
     background-color: #114;
     border-radius: .75em;
@@ -96,7 +96,7 @@ blockquote {
     display: inline-block;
     margin: .5em 0;
     font-size: 1em;
-}
+} */
 
 aside {
     font-size: 1em;
