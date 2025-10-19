@@ -90,12 +90,11 @@ blockquote {
 
 .tm {
     font-family: 'Roboto', monospace;
-    background-color: #114;
-    border-radius: .75em;
-    padding: .5em .66em;
-    display: inline-block;
     margin: .5em 0;
-    /* font-size: 1em; */
+    background-color: #114;
+    border-radius: 1em;
+    padding: .5em .66em;
+    width: 66%;
 }
 
 aside {
