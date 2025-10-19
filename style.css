@@ -80,6 +80,10 @@ strong {
     text-align: center;
 }
 
+.century {
+    font-family: 'Century', Times, serif;
+}
+
 blockquote {
     word-break: break-word;
 }
@@ -97,7 +101,12 @@ blockquote {
 aside {
     font-size: 1em;
     font-style: italic;
-    padding-left: 1.5em;
+    padding-left: 2em;
+}
+
+em {
+    font-weight: bold;
+    font-style: normal;
 }
 
 .rip {
