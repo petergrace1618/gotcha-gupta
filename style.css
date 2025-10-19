@@ -90,15 +90,17 @@ blockquote {
 
 .tm {
     font-family: 'Roboto', monospace;
-    margin: .5em 0;
-    background-color: #114;
-    border-radius: 1em;
-    padding: .5em .66em;
-    width: 66%;
+    font-size: 1.1em;
+    /* margin: .5em 0; */
+    /* background-color: #114; */
+    /* border-radius: 1em; */
+    /* padding: .5em .66em; */
+    /* width: 66%; */
+    padding-left: 2em;
 }
 
 aside {
-    font-size: 1em;
+    font-size: 1.2em;
     font-style: italic;
     padding-left: 2em;
 }
