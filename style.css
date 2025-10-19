@@ -90,7 +90,7 @@ blockquote {
 
 .tm {
     font-family: 'Roboto', monospace;
-    font-size: 1.1em;
+    /* font-size: 1.1em; */
     /* margin: .5em 0; */
     /* background-color: #114; */
     /* border-radius: 1em; */
@@ -100,7 +100,7 @@ blockquote {
 }
 
 aside {
-    font-size: 1.2em;
+    /* font-size: 1.2em; */
     font-style: italic;
     padding-left: 2em;
 }
