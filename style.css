@@ -9,7 +9,7 @@ body {
     background: #111;
     color: #888;
     font-family: Calibri;
-    font-size: 2em;
+    font-size: 32px;
 }
 
 header, footer {
@@ -45,9 +45,9 @@ h2 {
 }
 
 h3 {
-    font-family: 1.5em;
-    text-align: left;
-    text-indent: 2em;
+    /* font-size: 1.5em; */
+    text-align: center;
+    /* text-indent: 2em; */
 }
 
 h4 {
