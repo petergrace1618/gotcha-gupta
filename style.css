@@ -3,116 +3,26 @@
     src: url('Century\ Normal.ttf');
 }
 
-body {
-    padding: 0;
-    margin: 0;
-    background: #111;
-    color: #888;
-    font-family: Calibri;
-    font-size: 32px;
-}
-
-header, footer {
-    background-color: #222;
-}
-
-footer {
-    padding: 1em;
-}
-
-main {
-    max-width: 800px;
-    margin: auto;
-    padding: 1em;
-}
-
-h1, h2, h3 {
-    text-align: center;
+.century {
     font-family: 'Century', 'Times New Roman', Times, serif;
 }
 
 h1 {
-    text-shadow: 0 0 0.1em #777;
-    font-size: 3em;
-    color: #ccc;
-    padding-top: .25em;
-    padding-bottom: .5em;
+    text-shadow: 0 0 0.25em black;
 }
 
-h2 {
-    font-size: 2em;
-    color: #999;
+h1, h2, h3, h4, h5 {
+    font-family: Century;
 }
 
-h3 {
-    /* font-size: 1.5em; */
-    text-align: center;
-    /* text-indent: 2em; */
-}
-
-h4 {
-    font-family: 'Century', 'Times New Roman', Times, serif;
-}
-
-/* p {
-    margin-top: 1em;
-    margin-bottom: 1em;
-} */
-
-a {
-    color: rgb(0, 183, 255);
-    text-decoration: none;
-}
-
-strong {
-    font-family: 'Century', 'Times New Roman', Times, serif;
-    color: #aaa;
-}
-
-.disclaimer {
-    font-family: 'Century', 'Times New Roman', Times, serif;
-    border: 2px solid yellow;
-    padding: 0 1.2em .25em 1.2em;
-}
-
-.disclaimer h3 {
-    color: yellow;
-    text-align: center;
-}
-
-.century {
-    font-family: 'Century', Times, serif;
-}
-
-blockquote {
-    word-break: break-word;
-}
-
-.tm {
-    font-family: 'Roboto', monospace;
-    /* font-size: 1.1em; */
-    /* margin: .5em 0; */
-    /* background-color: #114; */
-    /* border-radius: 1em; */
-    /* padding: .5em .66em; */
-    /* width: 66%; */
-    padding-left: 2em;
-}
-
-aside {
-    /* font-size: 1.2em; */
-    font-style: italic;
-    padding-left: 2em;
-}
-
-em {
-    font-weight: bold;
-    font-style: normal;
+ul {
+    list-style-type: circle;
 }
 
 .rip {
     color: black;
     text-shadow: 0 0 1em yellow;
+    font-family: Century;
 }
 
 hr {
@@ -121,37 +31,8 @@ hr {
     border: 0;
 }
 
-.appendix {
-    text-align: left;
-}
-
-details {
-    margin-bottom: 1em;
-    border: 1px darkblue solid;
-    padding: .25em;
-    border-radius: .25em;
-}
-
-article {
-    padding-left: 1em;
-}
-
-img {
-    width: 100%;
-    border: 1px black solid;
-    margin: auto;
-}
-
-.dialog {
-    margin: 0.25em 2em;
-}
-
-.rip {
-    font-family: 'Times New Roman', Times, serif;
-}
-
+/* Declaration */
 .exhibits ul {
-    font-family: 'Century', 'Times New Roman', serif;
     list-style-type: none;
 }
 
