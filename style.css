@@ -21,7 +21,7 @@ ul {
 
 .rip {
     color: black;
-    text-shadow: 0 0 1em yellow;
+    text-shadow: 0 0 1em yellow, 0 0 .2em white;
     font-family: Century;
 }
 
