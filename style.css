@@ -15,6 +15,28 @@ h1, h2, h3, h4, h5 {
     font-family: Century;
 }
 
+nav ul {
+    list-style-type: none;
+}
+
+details summary {
+    border: 1px solid grey;
+    padding: .5em 1em;
+    background-color: #2a2a2a;
+    border-radius: 1em;
+}
+
+details:open summary {
+    border-radius: 1em 1em 0 0;
+}
+
+details ul {
+    border: 1px solid grey;
+    border-radius: 0 0 1em 1em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
 ul {
     list-style-type: circle;
 }
