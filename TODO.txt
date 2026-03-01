@@ -1,8 +1,7 @@
 Move commentary from Post Incidentum > The Pretense to separate file
-Add links to Absurd Addenda in Post Incident/The First Trip
-Add Maren email as easter egg
-Add description of data disclosure from my cell phone provider
+Add description of textnow data disclosure
 
+X Add Maren email as easter egg
 X Add new incident-calls-and-messages, post-incident-calls-and-messages
 X Add link to incident-calls-and-messages in Post Incidentum/The Context "she called me ten times after that". timestamp is Nov-04-2024-12-02-44
 X Make The Absurd Addenda a separate page, and add link to Appendix

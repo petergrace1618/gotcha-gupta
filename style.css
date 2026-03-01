@@ -51,6 +51,12 @@ ul {
     font-family: Century;
 }
 
+.egg {
+    text-decoration: none;
+    color: inherit;
+    cursor: inherit;
+}
+
 hr {
     height: 2px;
     background: grey;
