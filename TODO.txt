@@ -1,0 +1,37 @@
+Move commentary from Post Incidentum > The Pretense to separate file
+Add links to Absurd Addenda in Post Incident/The First Trip
+Add Maren email as easter egg
+Add description of data disclosure from my cell phone provider
+
+X Add new incident-calls-and-messages, post-incident-calls-and-messages
+X Add link to incident-calls-and-messages in Post Incidentum/The Context "she called me ten times after that". timestamp is Nov-04-2024-12-02-44
+X Make The Absurd Addenda a separate page, and add link to Appendix
+X Print, sign, and scan Amended Declaration of Good Faith Effort, and redact address
+X Fix style of call-to-non-emergency-dispatch
+X Add link to voicemail in The Pretense
+X Redact info from my police report
+X Finish Amended Declaration of Good Faith Effort
+X Redact certificate of service
+X redact police report 20-65764
+X redact dob from customer hardcopy
+Add to Supporting Documents: 
+	X Pre-Incident calls and messages
+	X Post-incident calls and messages
+	X Hot Bench Letter
+	X textnow-data-disclosure-email.pdf
+	X Receipt for bass guitar
+X Redact address from Declaration and from Small Claim and Notice of Small Claim
+X Link to incident-calls-and-messages.html in supporting documents
+X Copy media files to incident-calls-and-messages/textnow-data
+X Add G's police report
+X Scan and upload Declaration
+X Include Claim and Notice of Small Claim in body and Supporting Documents
+X Add exhibit-* links to declaration-of-peter-grace/index.html
+X Update all exhibit*/index.html to display *.png files
+X Slug case and add exhibit-n_ to folder names in docs/declaration-of-peter-grace
+X move docs/style.css to /style.css
+X update style.css link in all index.html files
+X create docs/declaration-of-peter-grace/index.html
+X rename docs/incident-calls-and-messages-log/ to docs/incident-calls-and-messages/
+X Remove "target=_blank" from Supporting Document links
+
