@@ -9,15 +9,26 @@
 
 h1 {
     text-shadow: 0 0 0.25em black;
-}
-
-h1, h2, h3, h4, h5 {
+    letter-spacing: .05em;
     font-family: Century;
 }
 
-details ul {
-    list-style-type: none;
+h2, h3, h4, h5 {
+    /* text-shadow: 0 .05em 0 var(--bs-body-color); */
+    font-family: Century;
+    color: var(--bs-tertiary-color);
+    letter-spacing: .05em;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Contents drop down */
 
 details summary {
     border: 1px solid grey;
@@ -37,6 +48,19 @@ details ul {
     padding-bottom: .5em;
 }
 
+details ul {
+    list-style-type: none;
+}
+
+details li {
+    position: relative;
+    right: 1em;
+}
+
+details li:hover {
+    background-color: #222;
+}
+
 ul {
     list-style-type: circle;
 }
@@ -46,12 +70,15 @@ ul {
 }
 
 .rip {
-    color: black;
-    text-shadow: 0 0 1em yellow, 0 0 .2em white;
+    color: var(--bs-danger);
     font-family: Century;
+    letter-spacing: .25em;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
 }
 
-.egg {
+#egg {
     text-decoration: none;
     color: inherit;
     cursor: inherit;
@@ -59,7 +86,7 @@ ul {
 
 hr {
     height: 2px;
-    background: grey;
+    background: var(--bs-border-color);
     border: 0;
 }
 
