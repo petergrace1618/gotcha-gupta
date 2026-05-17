@@ -1,6 +1,4 @@
-Add description of textnow data disclosure
-Add breadcrumbs to Declaration, Addenda Absurd
-Add from/to in maren email
+Rewrite github wiki
 
 X Add extra margin to h5
 X Make links in Contents drop down span the full width 
