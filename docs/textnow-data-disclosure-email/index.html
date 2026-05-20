@@ -1,14 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-bs-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- <link rel="stylesheet" href="../../style.css"> -->
   <link rel="icon" href="../../pentagram-icon.png" type="image/png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
   <style>
-body {
-  background-color: #444;
-}
+/* body {
+  background-color: #111;
+  font-family: 'Segoe UI', Calibri, Arial, sans-serif;
+  color: #ccc;
+} */
 img {
     width: 100%;
     border: 1px black solid;
@@ -17,10 +19,20 @@ img {
   </style>
   <title>Textnow Data Disclosure email</title>
 </head>
-<body>
+<body class="bg-dark-subtle">
+  <main class="container col-sm-10 col-md-9 col-lg-8 col-xl-7 mx-auto">
+
+  <p>
+    Documentation of my data disclosure package from my cell phone provider. An explanation of its necessity and function can be found <a href="https://github.com/petergrace1618/textnow-data-extractor/wiki">here</a>.
+  </p>
   <div class="img-container">
     <img src="textnow-data-disclosure-email-1.png" alt="textnow-data-disclosure-email-1.png">
     <img src="textnow-data-disclosure-email-2.png" alt="textnow-data-disclosure-email-2.png">
   </div>
+  </main>
+  <footer class="bg-dark p-3 mt-3">
+    &copy; Peter Grace 2026
+  </footer>
+
 </body>
 </html>

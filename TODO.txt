@@ -1,5 +1,6 @@
-Rewrite github wiki
+Redact email address from guitar center receipt
 
+X Rewrite github wiki
 X Add extra margin to h5
 X Make links in Contents drop down span the full width 
 X Add Maren email as easter egg
