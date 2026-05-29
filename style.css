@@ -14,8 +14,7 @@ h1 {
 }
 
 h2, h3, h4, h5 {
-    /* text-shadow: 0 .05em 0 var(--bs-body-color); */
-    font-family: Century;
+    font-family: 'Century', 'Times New Roman', Times, serif;
     color: var(--bs-tertiary-color);
     letter-spacing: .05em;
 }
