@@ -78,7 +78,8 @@ ul {
 }
 
 .rip {
-    color: var(--bs-danger);
+    color: cyan;
+    text-shadow: 0 0 1em white;
     font-family: Century;
     letter-spacing: .25em;
     text-align: center;
