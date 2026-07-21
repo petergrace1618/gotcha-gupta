@@ -10,7 +10,7 @@
 h1 {
     text-shadow: 0 0 0.25em black;
     letter-spacing: .05em;
-    font-family: Century;
+    font-family: 'Century', 'Times New Roman', Times, serif;
 }
 
 h2, h3, h4, h5 {
@@ -69,6 +69,8 @@ details li:hover {
     background-color: #222;
 }
 
+/* End Contents drop down */
+
 ul {
     list-style-type: circle;
 }
@@ -105,11 +107,18 @@ main {
 
 /* Declaration */
 
+img {
+    width: 100%;
+    border: 1px black solid;
+    margin: auto;
+}
+
 .exhibits li {
     margin-bottom: 1em;
 
 }
 
-.exhibits a {
-    text-decoration: none;
+audio {
+    border: 1px solid grey;
+    border-radius: .5em;
 }
