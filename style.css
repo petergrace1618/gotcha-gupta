@@ -122,3 +122,8 @@ audio {
     border: 1px solid grey;
     border-radius: .5em;
 }
+
+.dialogue {
+    list-style-type: none;
+    padding-left: 1em;
+}
