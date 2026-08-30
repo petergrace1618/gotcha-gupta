@@ -109,6 +109,10 @@ main {
     padding-bottom: 0;
 }
 
+svg {
+    background-color: var(--bs-border-color);
+}
+
 /* Declaration */
 
 img {
